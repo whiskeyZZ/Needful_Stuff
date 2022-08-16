@@ -6,13 +6,13 @@ def filter_time(datetime):
     time = re.search("T(.*)\.", datetime).group(1)
     return time
 
-london = requests.get("http://worldtimeapi.org/api/timezone/Europe/London")
-berlin = requests.get("http://worldtimeapi.org/api/timezone/Europe/Berlin")
-sydney = requests.get("http://worldtimeapi.org/api/timezone/Australia/Sydney")
-los_angeles = requests.get("http://worldtimeapi.org/api/timezone/America/Los_Angeles")
-sao_paulo = requests.get("http://worldtimeapi.org/api/timezone/America/Sao_Paulo")
-tokio = requests.get("http://worldtimeapi.org/api/timezone/Asia/Tokyo")
-kolkata = requests.get("http://worldtimeapi.org/api/timezone/Asia/Kolkata")
+london = requests.get("https://worldtimeapi.org/api/timezone/Europe/London")
+berlin = requests.get("https://worldtimeapi.org/api/timezone/Europe/Berlin")
+sydney = requests.get("https://worldtimeapi.org/api/timezone/Australia/Sydney")
+los_angeles = requests.get("https://worldtimeapi.org/api/timezone/America/Los_Angeles")
+sao_paulo = requests.get("https://worldtimeapi.org/api/timezone/America/Sao_Paulo")
+tokio = requests.get("https://worldtimeapi.org/api/timezone/Asia/Tokyo")
+kolkata = requests.get("https://worldtimeapi.org/api/timezone/Asia/Kolkata")
 
 data_london = "London " + london.json()['abbreviation'] + " " + filter_time(london.json()['datetime'])
 data_sydney = "Sydney " + sydney.json()['abbreviation'] + " " + filter_time(sydney.json()['datetime'])
