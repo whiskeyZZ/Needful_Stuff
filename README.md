@@ -12,4 +12,7 @@ Prints out a country of the world in which tomorrow is a holiday, including the 
 ### Worldtime  
 Prints out the current time of some major cities in the world
 
+### Last Lichess Game
+Prints out your last game on Lichess (or of any user you choose)
+
 
