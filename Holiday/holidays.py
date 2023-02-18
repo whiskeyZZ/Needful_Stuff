@@ -13,6 +13,8 @@ for day in req.json():
     if day["date"] == tomorrow:
         holidays.append(day)
 
+
+
 if len(holidays) > 0:
     rnd = random.randrange(0, len(holidays))
     country = requests.get("https://date.nager.at/api/v3/CountryInfo/{}".format(holidays[rnd]["countryCode"]))
