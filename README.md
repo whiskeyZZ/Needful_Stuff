@@ -15,4 +15,5 @@ Prints out the current time of some major cities in the world
 ### Last Lichess Game
 Prints out your last game on Lichess (or of any user you choose)
 
-
+### Useless Fact
+Prints out an useless but interesting fact
