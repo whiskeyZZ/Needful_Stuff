@@ -17,3 +17,12 @@ Prints out your last game on Lichess (or of any user you choose)
 
 ### Useless Fact
 Prints out an useless but interesting fact
+
+### Hack NASA
+Destroy the NASA-Rocket before it reaches the moon
+
+### Cryptography
+Messing around with crypto
+
+### Playground
+Playin' around
