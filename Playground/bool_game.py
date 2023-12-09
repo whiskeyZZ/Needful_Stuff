@@ -4,7 +4,7 @@ import random
 def create_bool(old, deep, level):
     new = ""
     bools = ["True", "False"]
-    signs = ["==", "!="]
+    operators = ["==", "!=", " and ", " or "]
     first_bracket = ["", "("]
     first = random.choice(first_bracket)
     second = ""
@@ -14,9 +14,9 @@ def create_bool(old, deep, level):
     if old == "":
         beginn_sign = ""
     else:
-        beginn_sign = random.choice(signs)
+        beginn_sign = random.choice(operators)
     new = old + beginn_sign + first + random.choice(bools) + random.choice(
-        signs) + random.choice(bools) + second
+        operators) + random.choice(bools) + second
     if deep < level:
         new = create_bool(new, deep+1, level)
     return new
