@@ -34,13 +34,24 @@ def get_data():
             date_string = date.strftime("%d. %B")
             first_round = False
     return next_indepence_day, country_name, flag
-        
+
+def get_ascii():
+    with open('flag.txt', 'r') as ascii:
+        return ascii.read().split("\n")
+
 def main():
-    independence_day, country, flag = get_data() 
-    print("On average every five days a country celebrates Independence from Great Britain")
-    time.sleep(1)
-    print(independence_day + " it is...")
-    time.sleep(1)
-    print(flag + flag + country + flag + flag + " !!!")
+    independence_day, country, flag = get_data()
+    ascii_list = get_ascii()
+    count = 0
+    for l in ascii_list:
+        if count == 17:
+            print(l + " On average every five days a country celebrates Independence from Great Britain")
+        elif count == 18:
+            print(l + " " + independence_day + " it's:")
+        elif count == 19:
+            print(l + " " + flag + flag + country + flag + flag + " !!!")
+        else:
+            print(l)
+        count = count + 1
 
 main()

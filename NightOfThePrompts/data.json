@@ -13,5 +13,270 @@
         "country": "Belize",
         "date": "21. September",
         "flag": "🇧🇿"
+    },
+    {
+        "country": "The Bahamas",
+        "date": "10. July",
+        "flag": "🇧🇸"
+    },
+    {
+        "country": "Bahrain",
+        "date": "15. August",
+        "flag": "🇧🇭"
+    },
+    {
+        "country": "Barbados",
+        "date": "30. November",
+        "flag": "🇧🇧"
+    },
+    {
+        "country": "Botswana",
+        "date": "30. September",
+        "flag": "🇧🇼"
+    },
+    {
+        "country": "Brunei",
+        "date": "01. January",
+        "flag": "🇧🇳"
+    },
+    {
+        "country": "Cyprus",
+        "date": "16. August",
+        "flag": "🇨🇾"
+    },
+    {
+        "country": "Dominica",
+        "date": "03. November",
+        "flag": "🇩🇲"
+    },
+    {
+        "country": "Egypt",
+        "date": "28. February",
+        "flag": "🇪🇬"
+    },
+    {
+        "country": "Eswatini",
+        "date": "06. September",
+        "flag": "🇸🇿"
+    },
+    {
+        "country": "Fiji",
+        "date": "10. October",
+        "flag": "🇫🇯"
+    },
+    {
+        "country": "Gambia",
+        "date": "18. February",
+        "flag": "🇬🇲"
+    },
+    {
+        "country": "Ghana",
+        "date": "06. March",
+        "flag": "🇬🇭"
+    },
+    {
+        "country": "Grenada",
+        "date": "07. February",
+        "flag": "🇬🇩"
+    },
+    {
+        "country": "Guyana",
+        "date": "26. May",
+        "flag": "🇬🇾"
+    },
+    {
+        "country": "India",
+        "date": "15. August",
+        "flag": "🇮🇳"
+    },
+    {
+        "country": "Iraq",
+        "date": "03. October",
+        "flag": "🇮🇶"
+    },
+    {
+        "country": "Jamaica",
+        "date": "06. August",
+        "flag": "🇯🇲"
+    },
+    {
+        "country": "Jordan",
+        "date": "25. May",
+        "flag": "🇯🇴"
+    },
+    {
+        "country": "Kenya",
+        "date": "12. December",
+        "flag": "🇰🇪"
+    },
+    {
+        "country": "Kiribati",
+        "date": "12. July",
+        "flag": "🇰🇮"
+    },
+    {
+        "country": "Kuwait",
+        "date": "19. June",
+        "flag": "🇰🇼"
+    },
+    {
+        "country": "Lesotho",
+        "date": "04. October",
+        "flag": "🇱🇸"
+    },
+    {
+        "country": "Libya",
+        "date": "24. December",
+        "flag": "🇱🇾"
+    },
+    {
+        "country": "Malawi",
+        "date": "06. July",
+        "flag": "🇲🇼"
+    },
+    {
+        "country": "Malaya",
+        "date": "31. August",
+        "flag": "🇲🇾"
+    },
+    {
+        "country": "Maldives",
+        "date": "26. July",
+        "flag": "🇲🇻"
+    },
+    {
+        "country": "Malta",
+        "date": "21. September",
+        "flag": "🇲🇹"
+    },
+    {
+        "country": "Mauritius",
+        "date": "12. March",
+        "flag": "🇲🇺"
+    },
+    {
+        "country": "Myanmar",
+        "date": "04. January",
+        "flag": "🇲🇲"
+    },
+    {
+        "country": "Nauru",
+        "date": "31. January",
+        "flag": "🇳🇷"
+    },
+    {
+        "country": "Nigeria",
+        "date": "01. October",
+        "flag": "🇳🇬"
+    },
+    {
+        "country": "Oman",
+        "date": "20. December",
+        "flag": "🇴🇲"
+    },
+    {
+        "country": "Pakistan",
+        "date": "14. August",
+        "flag": "🇵🇰"
+    },
+    {
+        "country": "Qatar",
+        "date": "03. September",
+        "flag": "🇶🇦"
+    },
+    {
+        "country": "Saint Lucia",
+        "date": "22. February",
+        "flag": "🇱🇨"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "date": "19. September",
+        "flag": "🇰🇳"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "date": "27. October",
+        "flag": "🇻🇨"
+    },
+    {
+        "country": "Seychelles",
+        "date": "29. June",
+        "flag": "🇸🇨"
+    },
+    {
+        "country": "Sierra Leone",
+        "date": "27. April",
+        "flag": "🇸🇱"
+    },
+    {
+        "country": "Solomon Islands",
+        "date": "07. July",
+        "flag": "🇸🇧"
+    },
+    {
+        "country": "Sri Lanka",
+        "date": "04. February",
+        "flag": "🇱🇰"
+    },
+    {
+        "country": "Sudan",
+        "date": "01. January",
+        "flag": "🇸🇩"
+    },
+    {
+        "country": "Tanganyika",
+        "date": "09. December",
+        "flag": "🇹🇿"
+    },
+    {
+        "country": "Tonga",
+        "date": "04. June",
+        "flag": "🇹🇴"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "date": "31. August",
+        "flag": "🇹🇹"
+    },
+    {
+        "country": "Tuvalu",
+        "date": "01. October",
+        "flag": "🇹🇻"
+    },
+    {
+        "country": "Uganda",
+        "date": "09. October",
+        "flag": "🇺🇬"
+    },
+    {
+        "country": "United Arab Emirates",
+        "date": "02. December",
+        "flag": "🇦🇪"
+    },
+    {
+        "country": "United States",
+        "date": "04. July",
+        "flag": "🇺🇸"
+    },
+    {
+        "country": "Vanuatu",
+        "date": "30. July",
+        "flag": "🇻🇺"
+    },
+    {
+        "country": "Zambia",
+        "date": "24. October",
+        "flag": "🇿🇲"
+    },
+    {
+        "country": "Zanzibar",
+        "date": "10. December",
+        "flag": "🇹🇿"
+    },
+    {
+        "country": "Zimbabwe",
+        "date": "18. April",
+        "flag": "🇿🇼"
     }
 ]
